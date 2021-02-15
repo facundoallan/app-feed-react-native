@@ -1,21 +1,21 @@
-# app-feed-react-native
-Para rodar este projeto instale as seguintes depêndencias
-1-Native Base
+# Feed de vídeos React Native
 
-npm install native-base --save
+## Para rodar este projeto instale as seguintes depêndencias
 
-react-native link
+#### Comandos para rodar
 
-2-Vector Icons
+      1-Native Base
 
-yarn add react-native-vector-icons
+      npm install native-base --save
 
-react-native link
+      react-native link
 
-3-React Navigator
+      yarn add react-native-vector-icons
 
-npm install @react-navigation/native
+    react-native link
 
-npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+    npm install @react-navigation/native
 
-npm install @react-navigation/stack
+    npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+     npm install @react-navigation/stack
